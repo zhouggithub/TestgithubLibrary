@@ -17,7 +17,7 @@ Step 2. Add the dependency
 	dependencies {
 	
 	
-	        implementation 'com.github.zhouggithub:TestgithubLibrary:Tag'
+	        implementation 'com.github.zhouggithub:TestgithubLibrary:2.0.0'
 		
 		
 	}
